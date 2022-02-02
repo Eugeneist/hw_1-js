@@ -17,3 +17,8 @@ alert( b - a );
 alert( a * b );
 alert( b / a );
 alert( b ** a );
+
+
+// NEW FEATURE
+
+console.log("New-feature");
